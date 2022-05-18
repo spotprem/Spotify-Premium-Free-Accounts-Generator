@@ -1,0 +1,8 @@
+{
+    "name": "spotify-premium-free-accounts/spotify-premium-free-accounts",
+    "description": "Link Below To Get Spotify Premium Free Accounts >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
